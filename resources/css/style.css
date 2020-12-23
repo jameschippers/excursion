@@ -27,7 +27,7 @@ h2 {
   color: white;
 }
 
-footer p {
+.copyright {
   text-align: right;
   color: gray;
   font-size: 21px;
